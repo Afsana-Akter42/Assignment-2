@@ -75,8 +75,8 @@ class AddEmployee extends StatelessWidget {
                 onPressed: () {
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.white, // White background
-                  foregroundColor: Colors.deepPurple, // Blue text color
+                  backgroundColor: Colors.white,
+                  foregroundColor: Colors.deepPurple,
                   elevation: 0,
                 ),
                 child: const Text("Add Employee"),
